@@ -517,11 +517,8 @@ a {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.strategy-list-item-icon {
-  width: 64px;
-  height: 64px;
-}
-.list-team {
+
+.team-item-one {
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
@@ -546,10 +543,7 @@ a {
 .tap-list:hover .tap-list:focus {
   background-color: #404bbf;
 }
-.social-items-three {
-  width: 16px;
-  height: 16px;
-}
-.logo {
+
+.link-top-header {
   color: #404bbf;
 }
